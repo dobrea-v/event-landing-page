@@ -1,0 +1,20 @@
+{
+  "name": "event-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch css/styles.scss css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dobreav/event-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dobreav/event-landing-page/issues"
+  },
+  "homepage": "https://github.com/Dobreav/event-landing-page#readme"
+}
